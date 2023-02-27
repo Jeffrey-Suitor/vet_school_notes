@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "ac81a61d29848456",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ab8159df94b28f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Safe Eats - Overview.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26c0973509e546f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b66abb03cc4f6927",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d32bae9501c0567b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "14bb1fcd046ac96a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "07c09f7f554ffbf5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e3079a829cd195a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfbb87ace2cc7b77",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Safe Eats - Overview.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b58be56383526d86",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Safe Eats - Overview.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "799ebb01e07572b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Safe Eats - Overview.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c1ab8159df94b28f",
+  "lastOpenFiles": [
+    "Safe Eats - React Native App.md",
+    "Safe Eats - Overview.md",
+    "React Native App.md",
+    "Test.md"
+  ]
+}

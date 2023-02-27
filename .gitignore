@@ -1,0 +1,5 @@
+.st*
+.tmp*
+.DS_Store
+.trash
+*.pdf

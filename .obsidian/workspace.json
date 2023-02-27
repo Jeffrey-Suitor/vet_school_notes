@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "ac81a61d29848456",
+    "type": "split",
+    "children": [
+      {
+        "id": "268674aaff252088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b65ada651f86cb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General Industry Structure.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b40c963093c09b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4d4afc5546d5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58f3f0af0e0346b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc1b63cdd9a2f3e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b08430bfb34c934",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5be1899ec3180a5d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "right": {
+    "id": "558f2bdd27466130",
+    "type": "split",
+    "children": [
+      {
+        "id": "124195dfc889afea",
+        "type": "tabs",
+        "dimension": 70.72434607645876,
+        "children": [
+          {
+            "id": "9fa2e6d4537127e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General Industry Structure.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc346b859de2154e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General Industry Structure.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "045870dc8fb206a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e54ec1f04de5985a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General Industry Structure.pdf"
+              }
+            }
+          },
+          {
+            "id": "cdad64bb28411201",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fc5d209ba20ac36",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0da6f65bfbf8d97c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "7ea3c624e9054d76",
+        "type": "tabs",
+        "dimension": 29.275653923541245,
+        "children": [
+          {
+            "id": "ee6fc1c1664b45d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "big-calendar:Big Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "18b65ada651f86cb",
+  "lastOpenFiles": [
+    "Digestive System (DS)/marking_scheme.png",
+    "Digestive System (DS)/subject_guide.pdf",
+    "Untitled.md",
+    "Dashboard.md",
+    "resources/msd_vet_glossary.txt",
+    "Digestive System (DS)/Digestive System (DS).md",
+    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Skeleton + Instrument Handling.md",
+    "Context",
+    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Intro.md",
+    "resources/veterinary_word_list.txt",
+    "resources",
+    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Notes.pdf",
+    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Outline.pdf",
+    "Intro To Veterinary Practice (IVP)/W1/IVP - L1 - Intro/IVP - L1 - Intro.md",
+    "Intro To Veterinary Practice (IVP)/Intro To Veterinary Practice (IVP).md",
+    "Intro To Veterinary Practice (IVP)/W1/IVP - P1 - Professional Identity/IVP - P1 - Professional Identity.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L1 - Australian livestock in the world/APS - L1 - Slides 2.pdf",
+    "Cells To Systems (C2S)/W1/C2S - P1 -  Microscopic Anatomy/C2S - P1 -  Microscopic Anatomy.md",
+    "Cells To Systems (C2S)/W1/C2S - L4 - Histology of Muscle and Nerve Cells/C2S - L4 - Histology of Muscle and Nerve Cells.md",
+    "Cells To Systems (C2S)/W1/C2S - L2 - Connective Tissue/C2S - L2 - Connective Tissue.md",
+    "Cells To Systems (C2S)/W1/C2S - L1 - Homeostasis and Body Systems/C2S - L1 - Homeostasis and Body Systems.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General industry structure.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L2 - Livestock Populations/APS - L2 - Livestock Populations.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L1 - Australian livestock in the world/APS - L1 - Australian livestock in the world.md",
+    "Animal in Extensive Production Systems (APS)/Animal in Extensive Production Systems (APS).md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L2 - Livestock Populations/APS - L2 - Worldwide import+export of products and live animals.pdf",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - nputs in extensive animal production systems.pdf",
+    "Animal in Extensive Production Systems (APS)/W1/W1.md",
+    "Cells To Systems (C2S)/W1/W1.md",
+    "Cells To Systems (C2S)/Cells To Systems (C2S).md",
+    "Intro To Veterinary Practice (IVP)/W1/W1.md",
+    "Digestive System (DS)/W1/W1.md",
+    "templates/Week Folder Note.md",
+    "Cells To Systems (C2S)/W1/C2S - L3 - Epithelium/C2S - L3 - Epithelium.md",
+    "Cells To Systems (C2S)/W1/Lecture 4 - Histology of Muscle and Nerve Cells/Untitled.md",
+    "Digestive System (DS)/W1/DS - L1/Untitled.md"
+  ]
+}
