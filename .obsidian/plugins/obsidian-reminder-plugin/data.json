@@ -1,47 +1,28 @@
 {
   "scanned": true,
   "reminders": {
-    "Intro To Veterinary Practice (IVP)/W1/IVP - P1 - Professional Identity/IVP - P1 - Professional Identity.md": [
-      {
-        "title": "IVP - P1 - Complete Handout ⏫",
-        "time": "2023-02-28",
-        "rowNumber": 5
-      }
-    ],
     "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Skeleton + Instrument Handling.md": [
       {
         "title": "Complete Canine Axial Skeleton Module [[DS - P1 - Manual.pdf]] ⏫",
-        "time": "2023-03-01",
+        "time": "2023-03-04",
         "rowNumber": 2
       },
       {
-        "title": "View interactive learning modules for axial skeleton on canvas ⏫",
-        "time": "2023-02-27",
-        "rowNumber": 3
-      },
-      {
         "title": "Get Miller's anatomy of the dog ebook [here](https://cat2.lib.unimelb.edu.au/search~S30?/Xmillers+dog+anatomy&searchscope=30&SORT=D/Xmillers+dog+anatomy&searchscope=30&SORT=D&SUBKEY=millers+dog+anatomy/1%2C11%2C11%2CB/frameset&FF=Xmillers+dog+anatomy&searchscope=30&SORT=D&1%2C1%2C) and get atlas of normal radiographic anatomy by Thrall [here](https://cat2.lib.unimelb.edu.au/search~S30/X?SEARCH=(Atlas%20of%20Normal%20Radiographic%20Anatomy%20and%20Anatomical%20Variants)&SORT=D)",
-        "time": "2023-02-27",
+        "time": "2023-03-04",
         "rowNumber": 4
-      }
-    ],
-    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Intro.md": [
-      {
-        "title": "DS - L1 ⏫",
-        "time": "2023-02-27",
-        "rowNumber": 8
       }
     ],
     "Cells To Systems (C2S)/W1/W1.md": [
       {
+        "title": "C2S - Academic Integrity Quiz ⏫",
+        "time": "2023-03-01",
+        "rowNumber": 13
+      },
+      {
         "title": "C2S - W1 - Practic Quiz ⏫",
         "time": "2023-03-03",
         "rowNumber": 12
-      },
-      {
-        "title": "C2S - Academic Integrity Quiz ⏫",
-        "time": "2023-02-28",
-        "rowNumber": 13
       }
     ],
     "Cells To Systems (C2S)/W1/C2S - P1 -  Microscopic Anatomy/C2S - P1 -  Microscopic Anatomy.md": [
@@ -72,43 +53,55 @@
         "rowNumber": 2
       }
     ],
-    "Cells To Systems (C2S)/W1/C2S - L1 - Homeostasis and Body Systems/C2S - L1 - Homeostasis and Body Systems.md": [
-      {
-        "title": "C2S - L1 ⏫",
-        "time": "2023-02-27",
-        "rowNumber": 2
-      }
-    ],
     "Animal in Extensive Production Systems (APS)/W1/W1.md": [
       {
         "title": "APS - Academic Integrity Quiz ⏫",
-        "time": "2023-02-28",
+        "time": "2023-03-01",
         "rowNumber": 12
+      }
+    ],
+    "Intro To Veterinary Practice (IVP)/W1/IVP - AH2 - Horse Handling and Behaviour/IVP - AH2 - Horse Handling and Behaviour.md": [
+      {
+        "title": "IVP - P2 - Complete Assignment ⏫",
+        "time": "2023-03-02",
+        "rowNumber": 2
+      }
+    ],
+    "Intro To Veterinary Practice (IVP)/W1/IVP - P2 - Finding your way in the DVM/IVP - P2 - Finding your way in the DVM.md": [
+      {
+        "title": "Complete how do I learn 🔼",
+        "time": "2023-03-05",
+        "rowNumber": 3
       },
       {
-        "title": "APS - Finished W1 Content",
-        "time": "2023-03-01",
+        "title": "Add library extension 🔼",
+        "time": "2023-03-05",
+        "rowNumber": 4
+      },
+      {
+        "title": "Library task ⏫",
+        "time": "2023-03-07",
+        "rowNumber": 2
+      }
+    ],
+    "Intro To Veterinary Practice (IVP)/Intro To Veterinary Practice (IVP).md": [
+      {
+        "title": "IVP Reflective Writing",
+        "time": "2023-05-03",
         "rowNumber": 13
       }
     ],
-    "Animal in Extensive Production Systems (APS)/W1/APS - L2 - Livestock Populations/APS - L2 - Livestock Populations.md": [
+    "Intro To Veterinary Practice (IVP)/W1/W1.md": [
       {
-        "title": "APS - L2",
-        "time": "2023-02-27",
-        "rowNumber": 2
+        "title": "IVP - Fear Free ⏫",
+        "time": "2023-03-16",
+        "rowNumber": 12
       }
     ],
-    "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General industry structure.md": [
+    "Intro To Veterinary Practice (IVP)/W1/IVP - AH1 - Cattle + Sheep Behaviour and Handling/IVP - AH1 - Cattle + Sheep Behaviour and Handling.md": [
       {
-        "title": "APS - L3",
-        "time": "2023-03-01",
-        "rowNumber": 2
-      }
-    ],
-    "Animal in Extensive Production Systems (APS)/W1/APS - L1 - Australian livestock in the world/APS - L1 - Australian livestock in the world.md": [
-      {
-        "title": "APS - L1 ⏫",
-        "time": "2023-02-27",
+        "title": "IVP - AH1 - Complete Assignment ⏫",
+        "time": "2023-03-02",
         "rowNumber": 2
       }
     ]

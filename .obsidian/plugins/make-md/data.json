@@ -33,10 +33,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "/",
       "Animal in Extensive Production Systems (APS)",
       "Animal in Extensive Production Systems (APS)/W1",
-      "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure"
+      "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure",
+      "Cells To Systems (C2S)",
+      "Cells To Systems (C2S)/W1",
+      "/",
+      "Intro To Veterinary Practice (IVP)",
+      "Intro To Veterinary Practice (IVP)/W1",
+      "Intro To Veterinary Practice (IVP)/W1/IVP - P1 - Professional Identity"
     ]
   },
   "expandedSpaces": [

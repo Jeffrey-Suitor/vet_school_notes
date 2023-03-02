@@ -6,3 +6,9 @@ path includes IVP
 group by filename
 sort by happens
 ```
+
+## Tasks
+
+Two reflective pieces, each of approximately 500 words, on two different learning experiences in IVP, ideally non-academic topics
+
+- [ ] IVP Reflective Writing 📅 2023-05-03

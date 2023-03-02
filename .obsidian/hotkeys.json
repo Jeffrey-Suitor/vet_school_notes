@@ -50,5 +50,13 @@
       "key": "K"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": []
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": " "
+    }
+  ]
 }

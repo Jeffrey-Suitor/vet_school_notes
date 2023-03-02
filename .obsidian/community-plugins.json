@@ -23,8 +23,7 @@
   "quickadd",
   "big-calendar",
   "leader-hotkeys-obsidian",
-  "media-extended",
-  "obsidian-timestamp-notes",
-  "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "text-extractor"
 ]
