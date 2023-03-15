@@ -3,5 +3,17 @@
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "useTab": false
+  "useTab": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "tabSize": 2,
+  "showUnsupportedFiles": true,
+  "spellcheckLanguages": [
+    "en-AU",
+    "en-CA"
+  ]
 }

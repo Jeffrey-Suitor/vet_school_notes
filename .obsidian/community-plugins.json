@@ -25,5 +25,10 @@
   "leader-hotkeys-obsidian",
   "obsidian-git",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-admonition",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-minimal-settings",
+  "dataview"
 ]

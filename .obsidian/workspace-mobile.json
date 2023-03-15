@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9493712ecf6cd423",
+        "id": "69cb0fa7b8afb972",
         "type": "tabs",
         "children": [
           {
-            "id": "7011937f520b4e9e",
+            "id": "8fc31c87f54513f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Skull And Axial.pdf"
+                "file": "Animal in Extensive Production Systems (APS)/W2/APS - L4 - Profitability and productivity/APS - L4 - Profitability and productivity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46cd80e60ad39bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Skull And Axial.pdf",
+            "file": "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Skull And Axial.pdf",
+            "file": "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Skull And Axial.pdf"
+            "file": "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md"
           }
         }
       },
@@ -131,21 +148,71 @@
           "type": "reminder-list",
           "state": {}
         }
+      },
+      {
+        "id": "851b7383f07148a9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
-  "active": "7011937f520b4e9e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "big-calendar:Big Calendar": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "46cd80e60ad39bc6",
   "lastOpenFiles": [
-    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Coloured Canine Skull.pdf",
-    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Thrall Skull Radiographs.pdf",
-    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Miller's Skull And Axial.pdf",
-    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Manual.pdf",
-    "Digestive System (DS)/W1/W1.md",
     "Untitled.md",
-    "Drawing 2023-02-02 19.48.09.excalidraw.md",
-    "ChatGPT.md",
-    "safe-eats/Safe Eats - Architecture.md",
-    "brag-documents/Oct 3rd.md"
+    "Animal in Extensive Production Systems (APS)/W2/APS - L4 - Profitability and productivity/APS - L4 - Profitability and productivity.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L8 - Nutrition in Extensive Prduction Systems/APS - L8 - Nutrition in Extensive Prduction Systems.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L7 - Animal Welfare and Genetics/APS - L7 - Animal Welfare and Genetics.md",
+    "Animal in Extensive Production Systems (APS)/W2/W2.md",
+    "Animal in Extensive Production Systems (APS)/W2/APS - L5 - Biosecurity & veterinary roles/APS - L5 - Biosecurity & veterinary roles.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L6 - Management Procedures/APS - L6 - Management Procedures.md",
+    "Animal in Extensive Production Systems (APS)/W3/W3.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L8 - Nutrition in Extensive Prduction Systems",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L7 - Animal Welfare and Genetics",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L6 - Management Procedures",
+    "Digestive System (DS)/W2/DS - L4 - Prehension and Taste/DS - L4 - Prehension and Taste.md",
+    "Animal in Extensive Production Systems (APS)/W3",
+    "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md",
+    "Cells To Systems (C2S)/W2/C2S - L5 - The language of anatomy/C2S - L5 - Notes.pdf",
+    "Digestive System (DS)/W2/DS - L2 - Teeth and Tooth Development/DS - L2 - Teeth and Tooth Development.md",
+    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Intro.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General industry structure.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L1 - Australian livestock in the world/APS - L1 - Australian livestock in the world.md",
+    "Cells To Systems (C2S)/W1/C2S - L2 - Connective Tissue/C2S - L2 - Connective Tissue.md",
+    "Cells To Systems (C2S)/W1/C2S - L1 - Homeostasis and Body Systems/C2S - L1 - Homeostasis and Body Systems.md",
+    "Cells To Systems (C2S)/W1/W1.md",
+    "Cells To Systems (C2S)/Cells To Systems (C2S).md",
+    "Animal in Extensive Production Systems (APS)/Animal in Extensive Production Systems (APS).md",
+    "Cells To Systems (C2S)/W2/W2.md",
+    "Cells To Systems (C2S)/W2/C2S - L7 - The body plan/C2S - L7 - The body plan.md",
+    "Cells To Systems (C2S)/W2/C2S - L6 - The Skeleton/C2S - L6 - The Skeleton.md",
+    "Cells To Systems (C2S)/W2/C2S - L5 - The language of anatomy/C2S - L5 - The language of anatomy.md",
+    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Manual.pdf",
+    "Digestive System (DS)/W1/DS - P1 - Skeleton + Instrument Handling/DS - P1 - Skeleton + Instrument Handling.md",
+    "Dashboard.md",
+    "Intro To Veterinary Practice (IVP)/W3/W3.md",
+    "Intro To Veterinary Practice (IVP)/W3/IVP - L3 -",
+    "Intro To Veterinary Practice (IVP)/W3",
+    "Cells To Systems (C2S)/W1/C2S - L4 - Histology of Muscle and Nerve Cells/C2S - L4 - Notes + Slides.pdf",
+    "Cells To Systems (C2S)/W1/C2S - L2 - Connective Tissue/C2S - L2 - Slides.pdf"
   ]
 }
