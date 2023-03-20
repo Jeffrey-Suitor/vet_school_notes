@@ -51,10 +51,28 @@
     }
   ],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-completr:completr-open-suggestion-popup": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": " "
     }

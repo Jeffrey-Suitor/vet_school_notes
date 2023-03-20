@@ -4,9 +4,10 @@
   "renderPDF": true,
   "renderIframe": false,
   "renderExcalidraw": true,
+  "renderMsgFile": false,
   "renderRichLink": false,
   "renderTransclusion": false,
-  "previewOnHoverInternalLink": false,
+  "previewOnHoverInternalLink": true,
   "refreshImagesAfterChange": false,
   "WYSIWYG": false
 }

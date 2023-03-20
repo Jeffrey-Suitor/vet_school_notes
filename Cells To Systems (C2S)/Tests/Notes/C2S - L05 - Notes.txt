@@ -1,0 +1,513 @@
+Cells to Systems
+LECTURE 5
+THE LANGUAGE OF ANATOMY
+LECTURER
+DR JANINE HOFMANN
+Janine is a Lecturer in Veterinary Anatomy at the University of Melbourne. Janine graduated
+from The University of Melbourne before working in small animal practice for 10 years. She
+rejoined the university to undertake a PhD in veterinary microbiology, in addition to teaching
+within the veterinary anatomy and physiology.
+Email: hofmann.j@unimelb.edu.au
+
+INTENDED LEARNING OUTCOMES
+At the end of this lecture, you should be able to:
+-
+
+Describe the position, relationships, form, and appearance of important animal structures and features to enable
+meaningful, unambiguous communication.
+Apply correct terminology for normal and novel structures in a meaningful way, an essential skill for a veterinarian.
+
+KEY WORDS
+-
+
+Position terms: left/right; medial/lateral; ventral/dorsal; cranial/caudal/rostral; palmar/plantar; superficial/deep;
+proximal/distal; axial/appendicular; axial/abaxial.
+Planes: median; sagittal; transverse; dorsal.
+Movement terms: flexion/extension/hyperextension, adduct/abduct, supinate/pronate.
+Prefixes: epi; peri; endo; dia; meta; infra; sub; supra, ante, anti, ab; ad; hypo; hyper.
+Tissues: bones, joints, cartilage, muscles, ligaments, tendons, nerves, veins, skin.
+
+LECTURE OVERVIEW
+LECTURE NOTES
+Anatomy is the study of the structure - the form, relations, and arrangement of tissues and organs, and function resulting
+from these relations. Knowledge of anatomy is essential to veterinary medicine. It is required for examining animals to
+determine what is normal and what is abnormal. It is required to accurately and safely take samples of blood or tissues for
+diagnosis. It is needed for surgery and injections of medication, and much more.
+
+The word ‘anatomy’ derives from an ancient Greek word meaning ‘to cut’. Now, as in ancient Greece, dissection is a crucial
+part of learning anatomy. To make anatomy easier to learn, it can be divided into gross anatomy (visible structures) and
+histology (microscopic structures). Anatomy can also be divided into body systems or only consider anatomy present in a
+particular body region.
+
+Anatomy gives names to all structures of the body and the many parts within these structures, as well as their positions and
+relationships. These names can be used to describe what you see and to follow written descriptions. Prior to 1985, many
+languages had their own terminology for each structure. This made it very difficult for clinicians and researchers around the
+world to communicate, as some structures had more than 10 different names. To remove ambiguity and improve clarity,
+veterinary anatomical language was internationally standardised.
+
+The definitive list of veterinary anatomical names is found in the Nomina Anatomica Veterinaria (NAV, current revision 6th
+edition 2017), as well as the guidelines which dictate the accepted names.
+The names in the NAV must follow these guidelines:
+1.
+
+Aside from a very limited number of exceptions, each anatomical concept should be designated by a single term.
+
+2.
+
+Each term should be in Latin in the official list, but the anatomists of each country are free to translate the official
+Latin terms into the language of instruction.
+
+3.
+
+Each term should be as short and simple as possible.
+
+4.
+
+The terms should be easy to remember and should have, above all, instructive and descriptive value.
+
+5.
+
+Structures that are closely related topographically should have similar names. For example, Arteria femoralis, Vena
+femoralis, Nervus femoralis.
+
+6.
+
+Differentiating adjectives should generally be opposites, as major and minor, superficialis and profundus.
+
+7.
+
+Terms derived from proper names (eponyms) should not be used.
+
+To summarise these guidelines, the term used to describe an anatomical structure is in Latin (or the local language
+translation), is short, simple, easy to remember, descriptive and instructive, and is the only term for this structure
+(ideally). If differentiating adjectives are used for two or more structures, they should be opposite. Structures closely
+related in their anatomical position should have similar names.
+
+While the names used in veterinary anatomical structures or concepts are derived from many languages, the majority are
+derived from ancient Greek or Latin. Becoming familiar with the translations for frequently used medical words (in particular
+commonly used prefixes, suffixes, or tissue names) will usually help bring meaning and comprehension to the sea of new
+words you will encounter in the coming years. You do not need to know which language the words come from, but the origin
+of some words has been included below for your interest (Gr = Greek, L = Latin).
+
+Below is a list of some commonly used tissue names in veterinary anatomy, but many more will be encountered.
+•
+
+Bones
+
+osteo- (Gr - bone), os (L - bone)
+
+•
+
+Joints
+
+arthr- (Gr - joint), articular (L - joint)
+
+•
+
+Cartilage
+
+chondro- (Gr - cartilage)
+
+•
+
+Muscles
+
+myo- (L – muscle, ‘a little mouse)
+
+•
+
+Ligaments
+
+-ligamentum (L - to tie, to bind)
+
+•
+
+Tendons
+
+tend- (G – tendon, to stretch)
+
+•
+
+Nerves
+
+neuro- (G – nerves, cord)
+
+•
+
+Veins
+
+phleb- (G – vein)
+
+•
+
+Skin
+
+-derm (G – skin, hide), cutaneous (L – the skin), -theium
+
+•
+
+Blood
+
+haem- (Gr/L - blood)
+
+Some commonly used prefixes in veterinary anatomy, their origins and meanings, and examples of their use:
+•
+
+Epi-
+
+(Gr – upon)
+
+epithelium, epiphysis
+
+•
+
+Peri-
+
+(Gr – around)
+
+pericardium, periosteum
+
+•
+
+Endo-
+
+(Gr – within)
+
+endothelium, endocrine
+
+•
+
+Dia-
+
+(Gr – between)
+
+diaphragm, diaphysis
+
+•
+
+Meta-
+
+(Gr – change/after)
+
+metabolism, metaphysis
+
+•
+
+Supra-
+
+(L – above)
+
+supracondylar
+
+•
+
+Infra-
+
+(L – beneath)
+
+infraspinous, infraorbital
+
+•
+
+Sub-
+
+(L – under)
+
+subcutaneous
+
+•
+
+Hypo-
+
+(Gr – below)
+
+hypoglycaemia, hypoglossal
+
+•
+
+Hyper-
+
+(Gr – over)
+
+hyperextension
+
+•
+
+Ad-
+
+(L – towards)
+
+adduction
+
+•
+
+Ab-
+
+(L – away)
+
+abaxial, abduction
+
+•
+
+Ante-
+
+(L – before)
+
+antebrachium
+
+•
+
+Anti-
+
+(Gr – against)
+
+antibiotic, anticlinal
+
+•
+
+A-/An-
+
+(Gr – not/without)
+
+anoestrous
+
+•
+
+Retro-
+
+(L – behind)
+
+retrobulbar
+
+•
+
+Di-
+
+(Gr –two)
+
+digastricus
+
+•
+
+Bi-
+
+(L – two)
+
+biceps brachii
+
+•
+
+Tri-
+
+(L & Gr – three)
+
+triceps brachii
+
+The point of learning anatomical names and terms is to use them to communicate, so they are only useful if you can be correct
+in your use of these words. Like any language, this will require practice. Use anatomical terms when asking questions and
+practice describing the positions of structures to your fellow students. Translating anatomical descriptions into lay
+terminology will assist you in developing ways of communicating to clients as well as improving your understanding of the
+terminology.
+
+DIRECTIONAL TERMS:
+Being able to describe a structure, its relationship to structures nearby, and its function are much more important than
+being able to name the structure. Identification of a structure is possible using just position terms and a general
+descriptive term such as bone, muscle, tendon, ligament, nerve, vessel (or more specifically artery or vein), lymph node,
+and organ, as long as you can relate that structure to something that is more accurately identifiable. To describe the
+position and the tissue, you will need a bank of descriptive words.
+
+Terms to describe direction in veterinary science are based on an upright, plantigrade (feet flat on the ground) stance.
+
+From: Dyce, Sack & Wensing’s Textbook of Veterinary Anatomy (4th ed).
+
+The correct terms for describing anatomy of an animal are:
+•
+
+Left and right (from the animal’s perspective)
+
+•
+
+Dorsal – towards the animal’s back or ‘dorsum’
+
+•
+
+Ventral – towards the animal’s belly or ‘ventrum’
+
+•
+
+Proximal (limbs and tail) – towards the junction to the body
+
+•
+
+Distal (limbs and tail) – away from the junction to the body
+
+•
+
+Cranial – towards the head (cranium, Gr = head)
+
+•
+
+Caudal – towards the tail (cauda, L = tail)
+
+•
+
+Medial – towards the ‘centre’ or ‘middle’ of the body, towards the median plane (see below)
+
+•
+
+Lateral – towards the flank or side of the body, away from the median plane
+
+•
+
+Superficial – towards the surface of the body
+
+•
+
+Deep – away from the surface of the body
+
+•
+
+External – towards or in the surface of the body
+
+•
+
+Internal/inner – away from the surface of the body
+
+For the carpus, tarsus, and all structures distal to these joints:
+•
+
+Dorsal – the side of the distal limbs away from the ground, towards the dorsum
+
+•
+
+Palmar – the ‘palm’, the side of the distal forelimb in contact with the ground
+
+•
+
+Plantar - the side of the distal hindlimb in contact with the ground
+
+For the digits:
+•
+
+Axial – towards the central axis of the limb
+
+•
+
+Abaxial (ab – L – away) – away the central axis of the limb
+
+For the head:
+•
+
+Rostral – towards the nose or ‘rostrum’
+
+•
+
+All other directional terms are the same i.e. dorsal and ventral, medial and lateral, superficial and deep, internal
+and external.
+
+•
+
+Some features of the eyes and ears are the only structures where the human terms ‘anterior’, ‘posterior’,
+‘superior’, and ‘inferior’ are applicable in veterinary anatomy.
+
+BODY PLANES:
+The planes of the body are 2-dimensional slices through the 3-dimensional body, which allows the body to be divided
+into different sections or allows us to view the arrangement of tissues in a certain slice. Understanding body planes is
+central to interpreting ultrasound, CT scans and MRI diagnostic images.
+•
+
+Median plane – through the ‘centre’ or ‘middle’ of the body, creating equal left and right halves of the body.
+
+•
+
+Sagittal plane – parallel to the median plane, dividing the body into unequal left and right parts.
+
+•
+
+Transverse plane – through the body or limb at right angles to the long axis, creating cranial and caudal parts
+(on the body) or proximal and distal parts (on the limbs).
+
+•
+
+Dorsal plane – through the body at right angles to both median and transverse planes, dividing the body into
+dorsal and ventral parts.
+
+ASPECTS:
+Aspects or views are used to communicate from what direction you are observing the animal. The name of the aspect you are
+viewing is the part of the animal closest to you (or the camera in an image). The aspect is named using the directional terms
+outlined above e.g. cranial aspect if you are viewing the front of the animal and it’s cranium is closest to you.
+The view might be angled and thus the description of the aspect will be a combination of two adjacent directions. For
+example, the horse in the directions diagram above is viewed from the craniolateral aspect.
+
+JOINT MOVEMENT:
+We also need words to describe how a joint is moving. For this, we use the long axis of the limb as reference and determine if
+the angle between the two bones of a joint is getting smaller or increasing compared to this straight line.
+
+•
+
+Flexion (L – to bend) - the angle between the bones at a joint becomes smaller.
+
+•
+
+Extension (L – stretch out) - the angle between the bones at a joint approaches 180o (approaches the straight line of
+the limb axis)
+
+•
+
+Hyperextension - a joint travels beyond 180o straight line of the limb axis in a continuation of the extension
+movement.
+o
+
+•
+
+Adduction – joint movement such that a limb moves towards the midline of the body
+o
+
+•
+
+‘hyper’ (Gr – over) + ‘extension’ (L - stretch out)
+
+‘ad’ (L – toward) + ‘duction’ (L – bringing)
+
+Abduction – joint movement such that a limb moves away from the midline of the body
+o
+
+‘ab’ (L – away) + ‘duction’ (L – bringing)
+
+•
+
+Pronation – rotation of the manus (‘hand’) or pes (‘foot’) so the palmar/plantar surface turns toward the ground
+o
+
+•
+
+‘pronate’ (L – lying face down)
+
+Supination – rotation of the manus (‘hand’) or pes (‘foot’) so the dorsal surface turns toward the ground
+o
+
+‘supinate’ (L - lay on the back)
+
+Supination
+
+Pronation
+
+BUILDING A PICTURE OF THE BODY IN YOUR MIND :
+If you identify the relative position and type of structure yourself whenever you encounter a new name, then you will be
+creating meaning for yourself in association with that word. In time, and with a great deal of practice, you will be able to build
+a complete picture of the body in this way.
+It is much more important to be able to build this mental “picture”, than to remember the precise name of a specific structure.
+From such a mental picture, you may deduce a lot about the function of specific structures and hence develop ideas of how to
+approach problems that you may encounter in clinical practice. You will also be able to find the correct name from a textbook
+if you can follow a description in detail.
+
+FURTHER READING
+Nomina Anatomica Veterinaria – available online here.
+Studdart. Gay & Hinchcliff, Saunders Comprehensive Veterinary Dictionary. Available as a downloadable e-book through the
+University library here.
+Singh. Dyce, Sack & Wensing’s Textbook of Veterinary Anatomy (any edition). Link to its’ University library page here.
+König & Liebich. Veterinary Anatomy of Domestic Mammals (any edition). Link to its’ University library page here.
+Hermanson, de Lahunta & Evans. Miller and Evans’ Anatomy of the Dog (any edition). Available as an e-book through the University
+library here.
+
+

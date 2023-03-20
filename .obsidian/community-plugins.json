@@ -6,7 +6,6 @@
   "nldates-obsidian",
   "obsidian-spaced-repetition",
   "obsidian-languagetool-plugin",
-  "obsidian-annotator",
   "obsidian-completr",
   "obsidian-dictionary-plugin",
   "find-unlinked-files",
@@ -30,5 +29,10 @@
   "obsidian-pandoc",
   "obsidian-zotero-desktop-connector",
   "obsidian-minimal-settings",
-  "dataview"
+  "dataview",
+  "url-into-selection",
+  "theme-picker",
+  "obsidian-tabs",
+  "obsidian-image-toolkit",
+  "obsidian-textgenerator-plugin"
 ]

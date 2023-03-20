@@ -10,33 +10,17 @@
           {
             "id": "a91f0f28c8cbd0ca",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cells To Systems (C2S)/W3/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0ad054e88bd4b442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cells To Systems (C2S)/W3/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis.md",
+                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cells To Systems (C2S)/W3/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis.md",
+                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cells To Systems (C2S)/W3/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis.md",
+                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cells To Systems (C2S)/W3/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis/C2S - L10 - Role Of Blood And Blood Cells In Homeostasis.md"
+                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md"
               }
             }
           },
@@ -219,6 +203,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -233,44 +219,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0ad054e88bd4b442",
+  "active": "a91f0f28c8cbd0ca",
   "lastOpenFiles": [
-    "Animal in Extensive Production Systems (APS)/W1/APS - L03 - General industry structure/APS - L03 - International Trade.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L03 - General industry structure/APS - L03 - Inputs in extensive animal production systems.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L03 - General industry structure/APS - L03 - General industry structure.md",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L03 - General industry structure/APS - L03 - General Industry Structure.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L03 - General industry structure",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Worldwide livestock populations.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Worldwide import+export of products and live animals.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Livestock Zones.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Livestock Populations.md",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Extensive Production How and Where.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations/APS - L02 - Extensive Production Climate.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L02 - Livestock Populations",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L01 - Australian livestock in the world/APS - L01 - Technologies that have allowed increased extensive production in Australia.pdf",
-    "Animal in Extensive Production Systems (APS)/W1/APS - L01 - Australian livestock in the world/APS - L01 - Australian livestock in the world.md",
-    "Animal in Extensive Production Systems (APS)/W1/APS - P01 - Dookie vs Swallow/APS - P01 - Dookie vs Swallow.md",
+    "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Outline.pdf",
+    "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
+    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling/sheep_handling_0.pdf",
+    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling/sheep_handling_0.pdf.crdownload",
+    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_3.pdf",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_3.pdf.crdownload",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_2.pdf",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_2.pdf.crdownload",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_1.pdf",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_1.pdf.crdownload",
+    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_0.pdf",
+    "Digestive System (DS)/W5/DS - L09 - Clinical Imaging of the GIT/DS - L09 - Clinical Imaging of the GIT.md",
+    "Digestive System (DS)/W5/DS - L08 - Clinical Evaluation of the GIT/DS - L08 - Clinical Evaluation of the GIT.md",
     "Animal in Extensive Production Systems (APS)/W3/APS - L09 - Nutrition in Extensive Production Systems/APS - L09 - Nutrition in Extensive Production Systems.md",
     "Animal in Extensive Production Systems (APS)/W3/APS - L08 - Animal Welfare and Genetics/APS - L08 - Animal Welfare and Genetics.md",
-    "Animal in Extensive Production Systems (APS)/W3/APS - L07 - Management Procedures/APS - L07 - Management Procedures.md",
-    "Animal in Extensive Production Systems (APS)/W2/APS - L06 - Reproduction & Annual Management/APS - L06 - Reproduction & Annual Management.md",
-    "Animal in Extensive Production Systems (APS)/W2/APS - L05 - Biosecurity & veterinary roles/APS - L05 - Role of the veterinarian in extensive industries.md",
-    "Animal in Extensive Production Systems (APS)/W2/APS - L05 - Biosecurity & veterinary roles/APS - L05 - Biosecurity & veterinary roles.md",
-    "Animal in Extensive Production Systems (APS)/W2/APS - L04 - Profitability and productivity/APS - L04 - Profitability and productivity.md",
-    "Animal in Extensive Production Systems (APS)/W2/APS - L04 - Profitability and productivity/APS - L04- Profitability and productivity.md",
-    "Intro To Veterinary Practice (IVP)/W1/IVP - L01 - Intro/IVP - L01 - Intro.md",
-    "Intro To Veterinary Practice (IVP)/W1/IVP - P02 - Finding your way in the DVM/IVP - P02 - Finding your way in the DVM.md",
-    "Intro To Veterinary Practice (IVP)/W1/IVP - P01 - Professional Identity/IVP - P01 - Professional Identity.md",
-    "Intro To Veterinary Practice (IVP)/W3/IVP - L03 - Introduction To Nutrition/IVP - L03 - Introduction To Nutrition.md",
+    "Intro To Veterinary Practice (IVP)/W5/IVP - L07 - Problem Behaviours/IVP - L07 - Problem Behaviours.md",
+    "Intro To Veterinary Practice (IVP)/W5/IVP - L06 - Cat Behaviour/IVP - L06 - Cat Behaviour.md",
+    "Intro To Veterinary Practice (IVP)/W5/IVP - L05 - Dog Behaviour/IVP - L05 - Dog Behaviour.md",
     "Intro To Veterinary Practice (IVP)/W3/IVP - L04 - Fundamental Components Of Food/IVP - L04 - Fundamental Components Of Food.md",
-    "Intro To Veterinary Practice (IVP)/W2/IVP - L02 - Large Animal Behaviour/IVP - L02 - Large Animal Behaviour.md",
-    "Intro To Veterinary Practice (IVP)/W2/IVP - L02 - Large Animal Behaviour/IVP - L02- Large Animal Behaviour.md",
-    "Digestive System (DS)/W1/DS - L01 - Intro/DS - L01 - Intro.md",
-    "Digestive System (DS)/W1/DS - P01 - Skeleton + Instrument Handling/DS - P01 - Skeleton + Instrument Handling.md",
-    "Digestive System (DS)/W3/DS - L05 - From Mouth To Stomach/DS - L05 - From Mouth To Stomach.md",
-    "Digestive System (DS)/W3/DS - L06 - Ruminant Forestomach/DS - L06 - Ruminant Forestomach.md",
+    "Digestive System (DS)/W5/DS - L11 - Diseases of the Oesophagus/DS - L11 - Diseases of the Oesophagus.md",
     "Digestive System (DS)/W3/DS - L07 - Simple Stomach and Abomasum/DS - L07 - Simple Stomach and Abomasum.md",
     "Digestive System (DS)/W3/DS - P02 - Dental/DS - P02 - Dental.md",
+    "Animal in Extensive Production Systems (APS)/W4/APS - L10 - Growing and Using Pasture/APS - L10 - Growing and Using Pasture.md",
+    "Animal in Extensive Production Systems (APS)/W4/APS - L11 - Matching Supply to Demand/APS - L11 - Matching Supply to Demand.md",
+    "Animal in Extensive Production Systems (APS)/W4/APS - L12 - Monitoring Stock Condition, Water Intake, Macro and Microminerals/APS - L12 - Monitoring Stock Condition, Water Intake, Macro and Microminerals.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L07 - Management Procedures/APS - L07 - Management Procedures.md",
+    "Intro To Veterinary Practice (IVP)/W3/IVP - L03 - Introduction To Nutrition/IVP - L03 - Introduction To Nutrition.md",
+    "Intro To Veterinary Practice (IVP)/W5/W5.md",
+    "Intro To Veterinary Practice (IVP)/Intro To Veterinary Practice (IVP).md",
+    "Digestive System (DS)/W5/W5.md",
+    "Digestive System (DS)/W3/W3.md",
+    "Intro To Veterinary Practice (IVP)/W3/W3.md",
+    "Animal in Extensive Production Systems (APS)/W4/W4.md",
+    "Animal in Extensive Production Systems (APS)/W3/W3.md",
+    "Digestive System (DS)/W2/DS - L02 - Teeth and Tooth Development/DS - L02 - Teeth and Tooth Development.md",
     "Intro To Veterinary Practice (IVP)/Library Task/discovery_result.png",
     "Intro To Veterinary Practice (IVP)/Library Task/cad_result.png",
     "Intro To Veterinary Practice (IVP)/Library Task/wos_result.png",
