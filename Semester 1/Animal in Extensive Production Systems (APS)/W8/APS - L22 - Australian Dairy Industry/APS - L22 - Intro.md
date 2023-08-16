@@ -1,0 +1,11 @@
+### Introduction to the Australian dairy industry (pre-reading)
+
+The Australian dairy herd has 1.41 million cows who each produce approximately 6,170L of milk per year. This results in an annual milk yield of over 8 million litres, making the dairy industry Australia’s 4th largest major rural industry.
+
+Based on a farmgate value of production of $4.8 billion in 2019/20, it ranks fourth behind the beef, wool and wheat industries. Approximately 43,500 people are directly employed on dairy farms and manufacturing plants. Related transport and distribution activities, and research and development projects represent further employment associated with the industry.
+
+The major dairy products consumed domestically include fresh milk, cheese, butter and butter blends, and yogurt. Other products include milk powders and whey/casein products. Per capita consumption trends over the past two decades have varied quite significantly by individual product. These trends reflect changes in consumer tastes and preferences in response to a multitude of variables, such as multicultural influences on food trends, health perceptions about dairy products and manufacturers’ responses (with low-fat variants), new product development, flavour and packaging innovations, competitive category offerings, and the distribution and hence availability of products.
+
+Per capita consumption of drinking milk is currently estimated at 97 litres, remaining at very high levels compared to many countries— thanks in no small part to the expansion of the ‘coffee-culture’ in Australia. Cheese consumption averaged 13.6kg per person in the last two years. Annual per capita consumption of butter in Australia is around 4 kgs. Yogurt has a per capita consumption at 9.4kg per year.
+
+Approximately 29% of Australian milk production was exported in 2019/20 generating nearly $4.8 billion in revenue. On the world stage, Australia is ranked 4th in terms of world dairy trade, with a 6% share of the market. The major export markets for Australian milk powders are concentrated in Asia; with 90% of SMP export volumes and nearly 95% of WMP destined for the region in 2019/20. China was the largest single export market for Australian dairy products (30%), followed by Japan, Singapore and Malaysia.

@@ -4,5 +4,6 @@
   "theme": "moonstone",
   "interfaceFontFamily": "Overpass",
   "textFontFamily": "Rubik",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 30
 }

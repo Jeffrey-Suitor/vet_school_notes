@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "ac81a61d29848456",
+    "type": "split",
+    "children": [
+      {
+        "id": "69cb0fa7b8afb972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fc31c87f54513f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Cells To Systems (C2S)/W4/C2S - L12 - Endocrine System and Signaling Pathways/C2S - L12 - Notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "46cd80e60ad39bc6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Cells To Systems (C2S)/W7/C2S - L20 - Innate Immune System/C2S - L20 - Notes.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26c0973509e546f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b66abb03cc4f6927",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d32bae9501c0567b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "14bb1fcd046ac96a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "07c09f7f554ffbf5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "b737935755945779",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e3079a829cd195a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfbb87ace2cc7b77",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cells To Systems (C2S)/W7/C2S - L20 - Innate Immune System/C2S - L20 - Notes.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b58be56383526d86",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Cells To Systems (C2S)/W7/C2S - L20 - Innate Immune System/C2S - L20 - Notes.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "799ebb01e07572b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Cells To Systems (C2S)/W7/C2S - L20 - Innate Immune System/C2S - L20 - Notes.pdf"
+          }
+        }
+      },
+      {
+        "id": "8222f379c4ffc6dc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "7320e3b2a0e5378b",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "851b7383f07148a9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "big-calendar:Big Calendar": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "46cd80e60ad39bc6",
+  "lastOpenFiles": [
+    "Cells To Systems (C2S)/W6/C2S - L19 - Spinal reflex control of skeletal muscle contraction/C2S - L19 - Slides.pdf",
+    "Cells To Systems (C2S)/W6/C2S - L18 - Contraction of cardiac and smooth muscle/C2S - L18 - Slides.pdf",
+    "Cells To Systems (C2S)/W6/C2S - L17 - Neuromuscular communication and the molecular basis of skeletal muscle contraction/C2S - L17 - Notes.pdf",
+    "Cells To Systems (C2S)/W5/C2S - L16 - The Synapse and Graded Potentials/C2S - L16 - Slides.pdf",
+    "Cells To Systems (C2S)/W5/C2S - L15 - The Neuron, Resting Membrane Potentials, and Action Potentials/C2S - L15 - Notes.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L14 - Hormones and Their Regulation/C2S - L14 - Notes.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L13 - Endocrine System and Signaling Pathways 2/C2S - L13 - Notes.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L12 - Endocrine System and Signaling Pathways/C2S - L12 - Notes.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L11 - Principles Of Cell Communication/C2S - L11 - Notes.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L11 - Principles Of Cell Communication/C2S - L11 - Slides.pdf",
+    "Digestive System (DS)/W7/DS - L17 - Pancreatic and Biliary Secretions/DS - L17 - Slides.pdf",
+    "Cells To Systems (C2S)/W4/C2S - L14 - Hormones and Their Regulation/C2S - L14 - Hormones and Their Regulation.md",
+    "Cells To Systems (C2S)/W4/C2S - L12 - Endocrine System and Signaling Pathways/C2S - L12 - Endocrine System and Signaling Pathways.md",
+    "Cells To Systems (C2S)/W5/C2S - L15 - The Neuron, Resting Membrane Potentials, and Action Potentials/C2S - L15 - The Neuron, Resting Membrane Potentials, and Action Potentials.md",
+    "Cells To Systems (C2S)/W5/W5.md",
+    "Cells To Systems (C2S)/W5/C2S - L16 - The Synapse and Graded Potentials/C2S - L16 - The Synapse and Graded Potentials.md",
+    "Animal in Extensive Production Systems (APS)/W5/APS - L14 - Beef Cattle Production Systems/APS - L14 - Beef Cattle Production Systems.md",
+    "Untitled.md",
+    "Animal in Extensive Production Systems (APS)/W2/APS - L4 - Profitability and productivity/APS - L4 - Profitability and productivity.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L8 - Nutrition in Extensive Prduction Systems/APS - L8 - Nutrition in Extensive Prduction Systems.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L7 - Animal Welfare and Genetics/APS - L7 - Animal Welfare and Genetics.md",
+    "Animal in Extensive Production Systems (APS)/W2/W2.md",
+    "Animal in Extensive Production Systems (APS)/W2/APS - L5 - Biosecurity & veterinary roles/APS - L5 - Biosecurity & veterinary roles.md",
+    "Animal in Extensive Production Systems (APS)/W3/APS - L6 - Management Procedures/APS - L6 - Management Procedures.md",
+    "Animal in Extensive Production Systems (APS)/W3/W3.md",
+    "Digestive System (DS)/W2/DS - L4 - Prehension and Taste/DS - L4 - Prehension and Taste.md",
+    "Digestive System (DS)/W2/DS - L3 - Comparative Dentition/DS - L3 - Comparative Dentition.md",
+    "Digestive System (DS)/W2/DS - L2 - Teeth and Tooth Development/DS - L2 - Teeth and Tooth Development.md",
+    "Digestive System (DS)/W1/DS - L1 - Intro/DS - L1 - Intro.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L3 - General industry structure/APS - L3 - General industry structure.md",
+    "Animal in Extensive Production Systems (APS)/W1/APS - L1 - Australian livestock in the world/APS - L1 - Australian livestock in the world.md",
+    "Cells To Systems (C2S)/W1/C2S - L2 - Connective Tissue/C2S - L2 - Connective Tissue.md",
+    "Cells To Systems (C2S)/W1/C2S - L1 - Homeostasis and Body Systems/C2S - L1 - Homeostasis and Body Systems.md",
+    "Cells To Systems (C2S)/W1/W1.md",
+    "Cells To Systems (C2S)/Cells To Systems (C2S).md",
+    "Animal in Extensive Production Systems (APS)/Animal in Extensive Production Systems (APS).md"
+  ]
+}

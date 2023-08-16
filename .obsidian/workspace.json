@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "772b169c2b497038",
+        "id": "f30b079bad7b430d",
         "type": "tabs",
         "children": [
           {
-            "id": "a91f0f28c8cbd0ca",
+            "id": "687b506e51c35ed3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Semester 1/Digestive System (DS)/W8/DS - C04 - Benji The Dog/DS - C04 - Handout.pdf"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anatomy/skeleton",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,18 +64,20 @@
             }
           },
           {
-            "id": "fd62d44360294c47",
+            "id": "a3524c7fec7c0ee0",
             "type": "leaf",
             "state": {
-              "type": "mk-file-view",
+              "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 437.5,
+    "collapsed": true
   },
   "right": {
     "id": "558f2bdd27466130",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
+                "file": "Semester 1/Digestive System (DS)/W8/DS - C04 - Benji The Dog/DS - C04 - Handout.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
+                "file": "Semester 1/Digestive System (DS)/W8/DS - C04 - Benji The Dog/DS - C04 - Handout.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +134,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md"
+                "file": "Semester 1/Digestive System (DS)/W8/DS - C04 - Benji The Dog/DS - C04 - Handout.pdf"
               }
-            }
-          },
-          {
-            "id": "cdad64bb28411201",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           },
           {
@@ -170,9 +161,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "5dd879284b224561",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "7ea3c624e9054d76",
@@ -184,13 +183,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           }
@@ -203,8 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-grammarly-plugin:Enable Grammarly": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,56 +205,62 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "big-calendar:Big Calendar": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a91f0f28c8cbd0ca",
+  "active": "687b506e51c35ed3",
   "lastOpenFiles": [
-    "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Outline.pdf",
-    "Digestive System (DS)/W5/DS - L10 - Diseases of the Oral Cavity/DS - L10 - Diseases of the Oral Cavity.md",
-    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling/sheep_handling_0.pdf",
-    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling/sheep_handling_0.pdf.crdownload",
-    "Intro To Veterinary Practice (IVP)/W4/Sheep Handling",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_3.pdf",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_3.pdf.crdownload",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_2.pdf",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_2.pdf.crdownload",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_1.pdf",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_1.pdf.crdownload",
-    "Intro To Veterinary Practice (IVP)/W4/Cattle Handling/cattle_handling_0.pdf",
-    "Digestive System (DS)/W5/DS - L09 - Clinical Imaging of the GIT/DS - L09 - Clinical Imaging of the GIT.md",
-    "Digestive System (DS)/W5/DS - L08 - Clinical Evaluation of the GIT/DS - L08 - Clinical Evaluation of the GIT.md",
-    "Animal in Extensive Production Systems (APS)/W3/APS - L09 - Nutrition in Extensive Production Systems/APS - L09 - Nutrition in Extensive Production Systems.md",
-    "Animal in Extensive Production Systems (APS)/W3/APS - L08 - Animal Welfare and Genetics/APS - L08 - Animal Welfare and Genetics.md",
-    "Intro To Veterinary Practice (IVP)/W5/IVP - L07 - Problem Behaviours/IVP - L07 - Problem Behaviours.md",
-    "Intro To Veterinary Practice (IVP)/W5/IVP - L06 - Cat Behaviour/IVP - L06 - Cat Behaviour.md",
-    "Intro To Veterinary Practice (IVP)/W5/IVP - L05 - Dog Behaviour/IVP - L05 - Dog Behaviour.md",
-    "Intro To Veterinary Practice (IVP)/W3/IVP - L04 - Fundamental Components Of Food/IVP - L04 - Fundamental Components Of Food.md",
-    "Digestive System (DS)/W5/DS - L11 - Diseases of the Oesophagus/DS - L11 - Diseases of the Oesophagus.md",
-    "Digestive System (DS)/W3/DS - L07 - Simple Stomach and Abomasum/DS - L07 - Simple Stomach and Abomasum.md",
-    "Digestive System (DS)/W3/DS - P02 - Dental/DS - P02 - Dental.md",
-    "Animal in Extensive Production Systems (APS)/W4/APS - L10 - Growing and Using Pasture/APS - L10 - Growing and Using Pasture.md",
-    "Animal in Extensive Production Systems (APS)/W4/APS - L11 - Matching Supply to Demand/APS - L11 - Matching Supply to Demand.md",
-    "Animal in Extensive Production Systems (APS)/W4/APS - L12 - Monitoring Stock Condition, Water Intake, Macro and Microminerals/APS - L12 - Monitoring Stock Condition, Water Intake, Macro and Microminerals.md",
-    "Animal in Extensive Production Systems (APS)/W3/APS - L07 - Management Procedures/APS - L07 - Management Procedures.md",
-    "Intro To Veterinary Practice (IVP)/W3/IVP - L03 - Introduction To Nutrition/IVP - L03 - Introduction To Nutrition.md",
-    "Intro To Veterinary Practice (IVP)/W5/W5.md",
-    "Intro To Veterinary Practice (IVP)/Intro To Veterinary Practice (IVP).md",
-    "Digestive System (DS)/W5/W5.md",
-    "Digestive System (DS)/W3/W3.md",
-    "Intro To Veterinary Practice (IVP)/W3/W3.md",
-    "Animal in Extensive Production Systems (APS)/W4/W4.md",
-    "Animal in Extensive Production Systems (APS)/W3/W3.md",
-    "Digestive System (DS)/W2/DS - L02 - Teeth and Tooth Development/DS - L02 - Teeth and Tooth Development.md",
-    "Intro To Veterinary Practice (IVP)/Library Task/discovery_result.png",
-    "Intro To Veterinary Practice (IVP)/Library Task/cad_result.png",
-    "Intro To Veterinary Practice (IVP)/Library Task/wos_result.png",
-    "Intro To Veterinary Practice (IVP)/Library Task/discovery_db_result.png",
-    "Intro To Veterinary Practice (IVP)/Library Task/Screenshot 2023-03-06 at 12.30.21 PM.png",
-    "Digestive System (DS)/marking_scheme.png"
+    "Cardiovascular (CRDO)/W1/CRDO - L05 - Observing The Electrical Activity Of The Heart/CRDO - L05 - Notes.pdf",
+    "Cardiovascular (CRDO)/W2/CRDO - L09 - Determinants Of Cardiac Output/CRDO - L09 - Determinants Of Cardiac Output.md",
+    "Cardiovascular (CRDO)/W2/CRDO - L10 - Clinical Examination Of The Cardiovascular System/CRDO - L10 - Notes.pdf",
+    "Cardiovascular (CRDO)/W2/CRDO - L11 - Imaging Of The Heart/CRDO - L11 - Slides.pdf",
+    "Cardiovascular (CRDO)/W1/CRDO - L05 - Observing The Electrical Activity Of The Heart/CRDO - L05 -Slides.pdf",
+    "Cardiovascular (CRDO)/W4/CRDO - L19 - Pharmacology of Anticoagulants/CRDO - L19 - Pharmacology of Anticoagulants.md",
+    "Cardiovascular (CRDO)/W4/CRDO - L19 - Pharmacology of Anticoagulants/CRDO - L19 - Slides.pdf",
+    "Cardiovascular (CRDO)/W4/CRDO - L18 - Perturbations of Flow 2- Thrombosis/CRDO - L18 - Perturbations of Flow 2- Thrombosis.md",
+    "Cardiovascular (CRDO)/W4/CRDO - L18 - Perturbations of Flow 2- Thrombosis/CRDO - L18 - Slides.pdf",
+    "Cardiovascular (CRDO)/W4/CRDO - L17 - Disorders of Secondary Haemostasis/CRDO - L17 - Disorders of Secondary Haemostasis.md",
+    "Intensive Production Systems (IPS)/W4/IPS - L10 - Poultry Biosecurity/IPS - L10 - Poultry Biosecurity.md",
+    "Cardiovascular (CRDO)/W4/CRDO - L21 - Shock, Hypertension and Hypotension/CRDO - L21 - Slides.pdf",
+    "Cardiovascular (CRDO)/W4/CRDO - L21 - Shock, Hypertension and Hypotension/CRDO - L21 - Notes.pdf",
+    "Cardiovascular (CRDO)/W4/CRDO - L21 - Shock, Hypertension and Hypotension",
+    "Cardiovascular (CRDO)/W4/CRDO - L20 - Perturbations of Flow 3- Embolism, Ischaemia, and Infarction/CRDO - L20 - Slides.pdf",
+    "Intensive Production Systems (IPS)/W4/IPS - L09 - Egg Layer Industry/IPS - L09 - Egg Layer Industry.md",
+    "Intensive Production Systems (IPS)/W3/IPS - L07 - Broiler Industry/IPS - L07 - Broiler Industry.md",
+    "Intensive Production Systems (IPS)/W4/IPS - L08 - Breeder Industry/IPS - L08 - Breeder Industry.md",
+    "Intensive Production Systems (IPS)/W3/IPS - L05 - Poultry Industry Structure And Scale/IPS - L05 - Poultry Industry Structure And Scale.md",
+    "Metabolism (MTBO)/W4/MTBO - L15 - L16 - Hepatotoxins and Hepatobiliary Tumours/MTBO - L15 - L16 - Hepatotoxins and Hepatobiliary Tumours.md",
+    "Intensive Production Systems (IPS)/W4/Untitled.md",
+    "Metabolism (MTBO)/W4/MTBO - L14 - Inflammation Of The Liver and Biliary Tree/MTBO - L14 - Inflammation Of The Liver and Biliary Tree.md",
+    "Metabolism (MTBO)/W4/MTBO - L13 - Pharmacokinetics 2/MTBO - L13 - Pharmacokinetics 2.md",
+    "Metabolism (MTBO)/W4/MTBO - L12 - Pharmacokinetics 1/MTBO - L12 - Pharmacokinetics 1.md",
+    "Metabolism (MTBO)/W3/MTBO - L11 - Diagnostic Imaging Of The Liver, Biliary Tree, And Pancreas/MTBO - L11 - Diagnostic Imaging Of The Liver, Biliary Tree, And Pancreas.md",
+    "Metabolism (MTBO)/W4/Untitled.md",
+    "Metabolism (MTBO)/W3/MTBO - L10 - Diagnostic Imaging of Abdominal Cavity/MTBO - L10 - Diagnostic Imaging of Abdominal Cavity.md",
+    "Metabolism (MTBO)/W3/MTBO - L09 - Necrosis, Regeneration and Repair Of The Liver/MTBO - L09 - Necrosis, Regeneration and Repair Of The Liver.md",
+    "Cardiovascular (CRDO)/W3/CRDO - L13 - Modulating Flow And The Baroreflex/CRDO - L13 - Modulating Flow And The Baroreflex.md",
+    "Cardiovascular (CRDO)/W3/CRDO - L16 - Disorders of Primary Haemostasis/CRDO - L16 - Disorders of Primary Haemostasis.md",
+    "Metabolism (MTBO)/W3/MTBO - L08 - Bovine Ketosis and Other Fatty Liver Syndromes/MTBO - L08 - Bovine Ketosis and Other Fatty Liver Syndromes.md",
+    "Metabolism (MTBO)/W3/MTBO - L07 - Malformations Degeneration Of Liver/MTBO - L07 - Malformations Degeneration Of Liver.md",
+    "Metabolism (MTBO)/W2/MTBO - L06 - Laboratory Investigation Of The Liver and Biliary System/MTBO - L06 - Laboratory Investigation Of The Liver and Biliary System.md",
+    "Intensive Production Systems (IPS)/W3/IPS - L06 - Hatchery/IPS - L06 - Hatchery.md",
+    "Cardiovascular (CRDO)/W2/CRDO - L10 - Clinical Examination Of The Cardiovascular System/CRDO - L10 - Clinical Examination Of The Cardiovascular System.md",
+    "Cardiovascular (CRDO)/W1/CRDO - L05 - Observing The Electrical Activity Of The Heart/Screenshot 2023-08-01 at 16.05.41.png",
+    "Cardiovascular (CRDO)/W1/CRDO - L05 - Observing The Electrical Activity Of The Heart/Screenshot 2023-08-01 at 16.01.49.png",
+    "Cardiovascular (CRDO)/W1/CRDO - L05 - Observing The Electrical Activity Of The Heart/Screenshot 2023-08-01 at 12.17.48.png",
+    "Intensive Production Systems (IPS)/W3/IPS - L05 - Poultry Industry Structure And Scale/Screenshot 2023-08-08 at 14.02.23.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.04.27.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.03.48.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.03.20.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.03.13.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.03.04.png",
+    "Cardiovascular (CRDO)/W3/CRDO - L14 - Perturbations of Flow, Hyperaemia, Congestion, and Oedema/Screenshot 2023-08-06 at 20.02.42.png"
   ]
 }

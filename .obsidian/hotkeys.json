@@ -9,10 +9,6 @@
   ],
   "obsidian-completr:completr-select-next-suggestion": [
     {
-      "key": "ArrowDown",
-      "modifiers": []
-    },
-    {
       "modifiers": [
         "Ctrl"
       ],
@@ -20,10 +16,6 @@
     }
   ],
   "obsidian-completr:completr-select-previous-suggestion": [
-    {
-      "key": "ArrowUp",
-      "modifiers": []
-    },
     {
       "modifiers": [
         "Ctrl"
@@ -75,6 +67,22 @@
         "Mod"
       ],
       "key": " "
+    }
+  ],
+  "obsidian-completr:completr-insert-selected-suggestion": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
     }
   ]
 }
