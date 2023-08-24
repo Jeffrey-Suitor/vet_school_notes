@@ -226,7 +226,7 @@ Pulmonary oedema in horse!
 ![[Screenshot 2023-08-06 at 20.04.27.png]]
 Oedema fluid can be found after spays
 
-![[CRDO - L14 - Notes 2.pdf#page=2]]
+![[CRDO - L14 - Slides.pdf#page=2]]
 
 ```
 ```
